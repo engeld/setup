@@ -9,11 +9,11 @@ This repository contains a script which pimps a clean mac osx mavericks-installa
 into a workstation ready to do stuff!
 
 Mainly, it does:
-- Install homebrew
-- Install homebrew-cask
-- Install my personal dotfiles
+- Install [homebrew](https://github.com/Homebrew/homebrew)
+- Install [homebrew-cask](https://github.com/caskroom/homebrew-cask)
+- Install [my personal dotfiles](https://github.com/engeld/dotfiles)
   - Symlinks all my dotfiles into its places
-- Install homebrew apps (according to my Brewfile)
+- Install homebrew apps (according to my [Brewfile](https://github.com/engeld/dotfiles/blob/master/Brewfile))
 - Install homebrew-cask apps
 
 ## TODO
