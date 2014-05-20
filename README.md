@@ -16,6 +16,9 @@ Mainly, it does:
 - Install homebrew apps (according to my [Brewfile](https://github.com/engeld/dotfiles/blob/master/Brewfile))
 - Install homebrew-cask apps
 
+### Installation
+
+
 ## TODO
 
 ## Caveats
